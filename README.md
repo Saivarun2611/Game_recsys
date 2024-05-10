@@ -2,7 +2,11 @@
 Recommender systems are extensively employed to suggest items that users are likely to appreciate. Broadly, there are three main types of recommender systems: collaborative filtering, content-based filtering, and hybrid systems.
 
 Collaborative Filtering: Operates on the principle that if two users have historically liked the same items, then a new item liked by one user is likely to be liked by the other. Its key advantage lies in not requiring the system to understand or process item content.
+
+
 Content-Based Filtering: Recommends items similar to those a user already likes by analyzing item descriptions.
+
+
 Hybrid Recommender Systems: Combines collaborative and content-based methods, either via a unified algorithm or by blending the outputs of both methods. Research indicates that hybrid systems often yield superior recommendations compared to using any single approach.
 Data Types:
 
